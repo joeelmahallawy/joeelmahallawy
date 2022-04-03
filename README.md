@@ -62,6 +62,7 @@ I'm a 3rd year software engineering student who likes to build cool projects in 
   <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="Solidity" width="40" height="40"/> </a>
   
 
 
