@@ -3,7 +3,7 @@
 
 <h3 align="center">My name is Youssef</h3>
   <p>
-I'm a 3rd year software engineering student who likes to build cool projects in Javascript. Let's connect on <a href="https://www.linkedin.com/in/youssefelmahallawy">LinkedIn!</a>
+I'm a software engineering student who likes to build cool projects in Javascript. Let's connect on <a href="https://www.linkedin.com/in/youssefelmahallawy">LinkedIn!</a>
   </p>
 
 
