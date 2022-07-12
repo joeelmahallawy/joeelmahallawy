@@ -28,7 +28,6 @@ I'm a software engineering student who likes to build cool projects in Typescrip
   <li>Included Auth0 for GitHub access + gmail access to send emails to user when matched with another developer</li>
   <li>Techstack: Next.js + MongoDB + Typescript + Recoil</li>
 
-
   <h1>Experience:</h1>
   
 
