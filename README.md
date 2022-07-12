@@ -45,8 +45,8 @@ I'm a software engineering student who likes to build cool projects in Typescrip
   <li>Internal tooling for developers to generate APIs in less than a minute</li>
   <li>Turn any SQL query or Spreadsheet into an API endpoint and run CRUD operations on it</li>
   <li>Integrates with PostgreSQL, MySQL, Google Sheets, CSV, and JSON files</li>
-  <li>Front-end: Typescript + Next.js + GCP </li>
-  <li>Back-end: Fastify + GraphQL + PostgreSQL + Prisma + Twilio API</li>
+  <li>Front-end: Typescript + Next.js + Mantine (components) </li>
+  <li>Back-end: Typescript + Fastify + GraphQL + PostgreSQL + Prisma + Twilio API</li>
 
   
 
