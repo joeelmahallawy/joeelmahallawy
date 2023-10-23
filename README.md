@@ -17,38 +17,68 @@ I'm a software engineering student who likes to build cool projects in Typescrip
 
   
   <h1>Deployed projects:</h1>
-<h3>TZCities (<a href="https://tzcities.vercel.app/">Demo</a>)</h3>
-  <li>One-page application for tracking timezones of several cities across the world simultaneously</li>
-  <li>Change your current location's time to see the other city's time change with respect to yours</li>
-  <li>Included Google Maps Autocomplete to search any city in the world</li>
-  <li>Techstack: Next.js + Typescript</li>
-  <br>
+  <h3>Validator AI (<a href="https://validatorai.com">Demo</a>)</h3>
+  <li>A website that validates startup ideas using AI to give constructive feedback and criticism</li>
+  <li>Built, sold, now holding equity and helping owner find PMF</li>
+  <li>Currently has over 220k users and has validated over 1M startup ideas</li>
+  <li>Techstack: Next.js + Typescript + OpenAI + PostgreSQL</li>
   
- <h3>PairPro (<a href="https://pair-pro.vercel.app/">Demo</a>)</h3>
-  <li>Match-making system to connect with developers of similar interest and experience to build projects together</li>
-  <li>Included Auth0 for GitHub access + gmail access to send emails to user when matched with another developer</li>
-  <li>Techstack: Next.js + MongoDB + Typescript + Recoil</li>
-  
+  <h3>Serve (<a href="https://www.withserve.com/">Demo</a>)</h3>
+  <li>Platform for developers to generate dynamic APIs to connect to databases and speadsheets</li>
+  <li>Turn any SQL query or Spreadsheet into an API endpoint and run CRUD operations on it</li>
+  <li>Integrates with PostgreSQL, MySQL, Google Sheets, CSV, and JSON files</li>
+  <li>Tech stack: Typescript + Next.js + Fastify + GraphQL + PostgreSQL + Prisma + Twilio API</li>
+
+  <h3>Repromptify (<a href="https://repromptify.com">Demo</a>)</h3>
+<li>AI tool that generates AI prompts for itself</li>
+<li>Supports prompt generation for image and conversational models</li>
+<li>Generate and test prompts super quickly all in real-time with Midjourney, DALLE2, or ChatGPT</li>
+<li>Tech stack: Typescript + Next.js + Prisma + PostgreSQL + Replicate + ChatGPT + Midjourney + DALLE2</li>
+
+  <h3>ModelTuner AI (<a href="https://modeltunerai.com">Demo</a>)</h3>
+  <li>All-in-one dashboard for fine-tuning ChatGPT</li>
+  <li>ModelTuner AI lets you see your training datasets, custom models, and fine-tuning jobs.</li>
+  <li>Techstack: Next.js + Prisma + Typescript + OpenAI API</li>
+
+  <h3>AI2API (<a href="https://ai2api.dev">Demo</a>)</h3>
+  <li>A reverse-engineered way to using Google’s Bard API (rated #1 Product of the day on <a href="https://www.producthunt.com/posts/bard-api">ProductHunt</a>).</li>
+  <li>Techstack: Next.js + Fastify + Typescript + Bard AI</li>
+
+  <h3>Tiktokenizer (<a href="https://tiktokenizer.dev">Demo</a>)</h3>
+  <li>API tool to help developers count their users' AI token usage and bill each user accordingly</li>
+  <li>Tiktokenizer forwards API requests to OpenAI and automatically counts token usage</li>
+  <li>Tracking, reading, and refreshing a users’ usage can be done via REST API.</li>  
+  <li>Techstack: Next.js + Fastify + Typescript + Prisma + OpenAI + Tiktoken.js + PostgreSQL</li>
+
+  <h3>MySecureNote (<a href="https://mysecurenote.com">Demo</a>)</h3>
+  <li>A tool to save sensitive information to a pin-protected URL that you can access from anywhere </li>
+  <li>Built this with the intention of it being a place to go when your phone dies and you need to access your ID or a friend's phone number</li>
+  <li>Serves over 600 pin-protected pages</li>
+  <li>Techstack: Next.js + Typescript + Prisma + PostgreSQL + Firebase</li>
+
+  <h3>CheckTheFloor (<a href="https://www.checkthefloor.xyz/">Demo</a>)</h3>
+  <li>Built simple subscriptions app where users can subscribe to NFT collections on Opensea and receive a text message When the floor price falls under a certain price</li>
+  <li>Used cron jobs to periodically monitor Opensea and send texts to subscribers using Twilio API</li>
+  <li>Deployed With 5+ DAOs registered on launch day</li>
+  <li>Techstack: Typescript + Node.js + PostgreSQL + Prisma + Twilio API</li>
   
  <h3>DaoJobz (<a href="https://www.daojobz.xyz/">Demo</a>)</h3>
   <li>Job board for Decentralized Autonomous Organizations (DAO) to onboard contributors</li>
   <li>Users were authenticated through discord to remain anonymous (preferred identity)</li>
   <li>Deployed With 5+ DAOs registered on launch day</li>
   <li>Techstack: Typescript + Next.js + GraphQL + PostgreSQL + Prisma</li>
+
+  <h3>PairPro (<a href="https://pair-pro.vercel.app/">Demo</a>)</h3>
+  <li>Match-making system to connect with developers of similar interest and experience to build projects together</li>
+  <li>Included Auth0 for GitHub access + gmail access to send emails to user when matched with another developer</li>
+  <li>Techstack: Next.js + MongoDB + Typescript + Recoil</li>
+
+  <h3>TZCities (<a href="https://tzcities.vercel.app/">Demo</a>)</h3>
+  <li>One-page application for tracking timezones of several cities across the world simultaneously</li>
+  <li>Change your current location's time to see the other city's time change with respect to yours</li>
+  <li>Included Google Maps Autocomplete to search any city in the world</li>
+  <li>Techstack: Next.js + Typescript</li>
   
- <h3>CheckTheFloor (<a href="https://www.checkthefloor.xyz/">Demo</a>)</h3>
-  <li>Built simple subscriptions app where users can subscribe to NFT collections on Opensea and receive a text message When the floor price falls under a certain price</li>
-  <li>Used cron jobs to periodically monitor Opensea and send texts to subscribers using Twilio API</li>
-  <li>Deployed With 5+ DAOs registered on launch day</li>
-  <li>Techstack: Typescript + Node.js + PostgreSQL + Prisma + Twilio API</li>
-
-  <h3>Serve (<a href="https://www.withserve.com/">Demo</a>)</h3>
-  <li>Internal tooling for developers to generate APIs in less than a minute</li>
-  <li>Turn any SQL query or Spreadsheet into an API endpoint and run CRUD operations on it</li>
-  <li>Integrates with PostgreSQL, MySQL, Google Sheets, CSV, and JSON files</li>
-  <li>Front-end: Typescript + Next.js + Mantine (components) </li>
-  <li>Back-end: Typescript + Fastify + GraphQL + PostgreSQL + Prisma + Twilio API</li>
-
   
 
   <h1>Experience:</h1>
