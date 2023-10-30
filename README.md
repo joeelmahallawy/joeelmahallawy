@@ -3,9 +3,8 @@
 
 <h3 align="center">My name is Youssef</h3>
   <p>
-I'm a software engineering student who likes to build cool projects in Typescript. Let's connect on <a href="https://www.linkedin.com/in/youssefelmahallawy">LinkedIn!</a>
+I'm a software engineer who likes to build cool projects in Typescript. Let's connect on <a href="https://www.linkedin.com/in/youssefelmahallawy">LinkedIn!</a>
   </p>
-
 
 
 <!-- ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeelmahallawy&show_icons=true&theme=radical) -->
@@ -13,7 +12,6 @@ I'm a software engineering student who likes to build cool projects in Typescrip
 [![](https://github-readme-streak-stats.herokuapp.com/?user=joeelmahallawy&theme=radical)](https://github.com/joeelmahallawy)
 
 <!--   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
 
   
   <h1>Deployed projects:</h1>
